@@ -1,0 +1,11 @@
+Amherst College,0
+Bates College,1
+Bowdoin College,2
+Colby College,3
+Connecticut College,4
+Hamilton College,5
+Middlebury College,6
+Trinity College,7
+Tufts University,8
+Wesleyan University,9
+Williams College,10
